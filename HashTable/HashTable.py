@@ -1,6 +1,6 @@
 from HashKey import Hash
 
-hash = Hash.HashValue()
+hash = Hash.HashTable()
 
 #create the hashtable by giving three elements
 hash.add_to_table("Hey", 13)
